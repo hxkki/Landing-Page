@@ -1,0 +1,33 @@
+*{
+    font-family: 'Roboto';
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #1f2937;
+    align-items: center;
+
+}
+
+.rightLinks{
+
+    display: flex;
+    flex-direction: row;
+    gap: 18px;
+    margin-right: 200px;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.leftLogo{
+
+    margin-left: 200px;
+    font-size: 24px;
+    font-weight: bold;
+    color: #f9faf8;
+}
