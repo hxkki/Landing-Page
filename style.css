@@ -101,3 +101,44 @@
     min-width: 400px;
 }
 
+.information{
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.information h4{
+
+    padding-top: 50px;
+    font-size: 36px;
+    font-weight: bold;
+    color: #1f2937;
+    padding-bottom: 50px;
+}
+
+#box1, #box2, #box3, #box4{
+
+    border: 3px solid #3882F6;
+    height: 150px;
+    width: 150px;
+    border-radius: 10px;
+    
+}
+
+.box{
+
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+
+}
+.text{
+    max-width: 150px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+
+
+
